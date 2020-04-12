@@ -1,4 +1,7 @@
 '''
+
+Home Assistant integration for Somfy Shutters
+
 CODE BASED ON https://github.com/sehaas/yfmos
 
     
